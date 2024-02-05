@@ -17,7 +17,7 @@
 - Precisa ter instalado e configurado o git na sua máquina.
 
 ```bash
-    git clone zaztech-api
+    git clone https://github.com/eufelipelucio/zaztech-api.git
     cd zaztech-api
 ```
 - Configure seu banco de dados em `./config/config.json`
