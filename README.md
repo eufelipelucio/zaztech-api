@@ -22,6 +22,7 @@
 ```
 - Configure seu banco de dados em `./config/config.json`
 ```bash
+
  "test": {
     "username": "seu-username",
     "password": "sua-senha",
@@ -34,6 +35,7 @@
   - Inicie o projeto
 ```bash
     npm i
+    sequelize db:migrate
     node app.js
 ```
 
