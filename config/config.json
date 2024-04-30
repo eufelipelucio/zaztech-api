@@ -1,17 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "1234",
-    "database": "backend",
-    "host": "127.0.0.1",
+    "username": "seu-username",
+    "password": "sua-senha",
+    "database": "seu-banco",
+    "host": "localhost",
     "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": "123",
-    "database": "backend",
-    "host": "127.0.0.1",
-    "port": 5432,
-    "dialect": "postgres"
   }
 }
