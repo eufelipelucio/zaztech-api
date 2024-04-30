@@ -13,7 +13,8 @@
 
 ## Rodar o projeto
 
-- Precisa ter o node instalado.
+- Precisa ter o Node instalado.
+- Precisa ter MySQL instalado.
 - Precisa ter instalado e configurado o git na sua máquina.
 
 ```bash
