@@ -37,7 +37,7 @@
     sequelize db:migrate
     npm start
 ```
-
+"![image](https://github.com/eufelipelucio/zaztech-api/assets/79817131/77512185-252d-446a-8f5e-18d13ba65929)"
 
 ## Documentação da API
 
